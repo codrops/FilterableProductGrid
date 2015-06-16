@@ -1,0 +1,40 @@
+/* Made with http://icomoon.io/ */
+@font-face {
+	font-family: 'pixelfabric-clothes';
+	src:url('fonts/pixelfabric-clothes.eot?dsm1zy');
+	src:url('fonts/pixelfabric-clothes.eot?#iefixdsm1zy') format('embedded-opentype'),
+		url('fonts/pixelfabric-clothes.ttf?dsm1zy') format('truetype'),
+		url('fonts/pixelfabric-clothes.woff?dsm1zy') format('woff'),
+		url('fonts/pixelfabric-clothes.svg?dsm1zy#pixelfabric-clothes') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+.icon {
+	font-family: 'pixelfabric-clothes';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon--shoe:before {
+	content: "\e601";
+}
+.icon--dress:before {
+	content: "\e600";
+}
+.icon--trousers:before {
+	content: "\e602";
+}
+.icon--jacket:before {
+	content: "\e603";
+}
+.icon--shirt:before {
+	content: "\e604";
+}
