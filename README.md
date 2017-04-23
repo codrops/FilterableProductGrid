@@ -1,4 +1,4 @@
-#Blueprint: Touch-friendly Product Grid Layout with Filter Functionality
+# Blueprint: Touch-friendly Product Grid Layout with Filter Functionality
 
 A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.
 
